@@ -1,2 +1,2 @@
 # symble-cli
-A command line recreation of the game symble
+A command line recreation of the game [Symble](URL "symble.app")
